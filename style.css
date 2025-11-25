@@ -63,7 +63,7 @@ ul {
 }
 
 li {
-    background-image: url('/assets/images/icon-list.svg');
+    background-image: url('assets/images/icon-list.svg');
     background-position: left top;
     background-repeat: no-repeat;
     margin-bottom: .8rem;
