@@ -5,7 +5,6 @@ window.addEventListener("DOMContentLoaded", () => {
     const emailFormSection = document.getElementById("sign-up-form");
     const successMessageSection = document.getElementById("success-message");
     const mobileImaege = document.querySelector(".illustration-mobile");
-    const desktopImage = document.querySelector(".illustration-desktop");
     const dismissButton = document.getElementById("dismiss-message");
 
     dismissButton.addEventListener("click", () => {
